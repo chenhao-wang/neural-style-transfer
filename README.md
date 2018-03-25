@@ -1,7 +1,7 @@
 # neural-style-transfer
 ### destription
+you should download VGG weights first from MatConvNet [imagenet-vgg-verydeep-19](http://www.vlfeat.org/matconvnet/models/imagenet-vgg-verydeep-19.mat)  
 run `python style.py` to train and generate neural-style-transefer image  
-
 ### examples
 before   
 ![before](/images/wenzhou.jpg)  
